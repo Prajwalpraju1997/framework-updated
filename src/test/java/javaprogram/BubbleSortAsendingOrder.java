@@ -13,7 +13,7 @@ public class BubbleSortAsendingOrder {
 					arr[i]=temp;
 				}			
 			}
-		} 
+		} //
 		for(int data:arr)
 		{
 			System.out.print(data+" ");
